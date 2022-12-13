@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">esercizio-develhope</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titolofragment">Esercizio Develhope</string>
+    <string name="button1">button 1</string>
+    <string name="button2">button 2</string>
+    <string name="button3">button 3</string>
+</resources>
